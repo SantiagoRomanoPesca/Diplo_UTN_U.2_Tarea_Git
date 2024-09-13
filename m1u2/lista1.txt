@@ -1,0 +1,20 @@
+Galletitas
+Productos de limpieza
+Aguas saborizadas
+Carne
+Pollo
+Pescado
+
+
+
+Hola profe como esta? 
+
+Disculpe la tardanza en la entrega se me esta complicando
+entregar ya que estoy teniendo cambios de horario en el trabajo.
+
+Nunca había trabajado de esta manera, en el otro curso que hice de php
+teníamos que enviar el código escrito o el archivo. Me resulta mas practico asi, 
+ya que también aprendemos comandos del cmd.
+
+
+Espero haber echo bien la tarea. Saludos
