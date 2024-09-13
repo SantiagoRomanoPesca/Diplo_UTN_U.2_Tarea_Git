@@ -4,7 +4,15 @@ Aguas saborizadas
 Carne
 Pollo
 Pescado
-
+--------
+Papa
+Batata
+Zapallo
+Brocoli
+Zanahoria
+Manzana
+Banana
+------
 
 
 Hola profe como esta? 
